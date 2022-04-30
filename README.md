@@ -217,7 +217,7 @@ Project Link: [https://github.com/OhBubbles/RizzimBot](https://github.com/OhBubb
 [license-shield]: https://img.shields.io/github/license/OhBubbles/RizzimBot.svg?style=for-the-badge
 [license-url]: https://github.com/OhBubbles/RizzimBot/blob/master/LICENSE.txt
 [javascript-shield]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-[js-url]: https://github.com/OhBubbles/RizzimBot/blob/master/LICENSE.txt
+[js-url]: https://devdocs.io/javascript/
 [typescript-shield]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[ts-url]: https://github.com/OhBubbles/RizzimBot/blob/master/LICENSE.txt
+[ts-url]: https://www.typescriptlang.org/docs/
 [product-screenshot]: images/screenshot.png
