@@ -14,8 +14,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[javascript-shield]
-[typescript-shield]
+[![Javascript][javascript-shield]]
+[![Typescript][typescript-shield]]
 
 
 
