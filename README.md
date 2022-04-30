@@ -16,6 +16,7 @@
 [![MIT License][license-shield]][license-url]
 [![Javascript][javascript-shield]][js-url]
 [![Typescript][typescript-shield]][ts-url]
+[![VsCode][vscode-shield]][vscode-url]
 
 
 
@@ -220,4 +221,6 @@ Project Link: [https://github.com/OhBubbles/RizzimBot](https://github.com/OhBubb
 [js-url]: https://devdocs.io/javascript/
 [typescript-shield]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [ts-url]: https://www.typescriptlang.org/docs/
+[vscode-shield]: https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
+[vscode-url]: https://code.visualstudio.com/
 [product-screenshot]: images/screenshot.png
