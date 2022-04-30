@@ -14,6 +14,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![Github][github-shield]][github-url]
 [![Javascript][javascript-shield]][js-url]
 [![Typescript][typescript-shield]][ts-url]
 [![VsCode][vscode-shield]][vscode-url]
@@ -217,6 +218,8 @@ Project Link: [https://github.com/OhBubbles/RizzimBot](https://github.com/OhBubb
 [issues-url]: https://github.com/OhBubbles/RizzimBot/issues
 [license-shield]: https://img.shields.io/github/license/OhBubbles/RizzimBot.svg?style=for-the-badge
 [license-url]: https://github.com/OhBubbles/RizzimBot/blob/master/LICENSE.txt
+[github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/OhBubbles/RizzimBot/
 [javascript-shield]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [js-url]: https://devdocs.io/javascript/
 [typescript-shield]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
